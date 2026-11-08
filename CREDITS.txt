@@ -1,4 +1,6 @@
 CLAUDE SKILLS LIBRARY — CREDITS & LICENSES
+Curated and maintained by geowallah.com - https://geowallah.com
+
 ============================================================
 
 Total unique skills: 2507
@@ -89,3 +91,5 @@ MIT / Apache-2.0 permit redistribution provided this notice is kept.
     Skills  : 16
     Source  : https://github.com/alchaincyf/nuwa-skill
     Notice  : MIT License
+
+Curated and maintained by geowallah.com - https://geowallah.com
