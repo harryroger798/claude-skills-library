@@ -1,0 +1,91 @@
+CLAUDE SKILLS LIBRARY — CREDITS & LICENSES
+============================================================
+
+Total unique skills: 2507
+Duplicates skipped:   121
+
+Every skill below is redistributed under its original license.
+MIT / Apache-2.0 permit redistribution provided this notice is kept.
+
+- anthropics/skills
+    License : Apache-2.0 (example skills)
+    Skills  : 15
+    Source  : https://github.com/anthropics/skills
+
+- mohitagw15856/pm-claude-skills
+    License : MIT
+    Skills  : 1330
+    Source  : https://github.com/mohitagw15856/pm-claude-skills
+    Notice  : MIT License
+
+- alirezarezvani/claude-skills
+    License : MIT
+    Skills  : 443
+    Source  : https://github.com/alirezarezvani/claude-skills
+    Notice  : MIT License
+
+- wshobson/agents
+    License : MIT
+    Skills  : 185
+    Source  : https://github.com/wshobson/agents
+    Notice  : MIT License
+
+- K-Dense-AI/scientific-agent-skills
+    License : MIT
+    Skills  : 176
+    Source  : https://github.com/K-Dense-AI/scientific-agent-skills
+    Notice  : MIT License
+
+- tradermonty/claude-trading-skills
+    License : MIT
+    Skills  : 74
+    Source  : https://github.com/tradermonty/claude-trading-skills
+    Notice  : MIT License
+
+- paperclipai/paperclip
+    License : MIT
+    Skills  : 68
+    Source  : https://github.com/paperclipai/paperclip
+    Notice  : MIT License
+
+- Jeffallan/claude-skills
+    License : MIT
+    Skills  : 64
+    Source  : https://github.com/Jeffallan/claude-skills
+    Notice  : MIT License
+
+- nanocoai/nanoclaw
+    License : MIT
+    Skills  : 62
+    Source  : https://github.com/nanocoai/nanoclaw
+    Notice  : MIT License
+
+- coreyhaines31/marketingskills
+    License : MIT
+    Skills  : 41
+    Source  : https://github.com/coreyhaines31/marketingskills
+    Notice  : MIT License
+
+- zLanqing/codex-claude-academic-skills
+    License : MIT
+    Skills  : 5
+    Source  : https://github.com/zLanqing/codex-claude-academic-skills
+    Notice  : MIT License
+
+- JimLiu/baoyu-skills
+    License : MIT
+    Skills  : 22
+    Source  : https://github.com/JimLiu/baoyu-skills
+    Notice  : MIT License
+
+- OthmanAdi/planning-with-files
+    License : MIT
+    Skills  : 6
+    Source  : https://github.com/OthmanAdi/planning-with-files
+    Notice  : MIT License
+
+- alchaincyf/nuwa-skill
+    License : MIT
+    Skills  : 16
+    Source  : https://github.com/alchaincyf/nuwa-skill
+    Notice  : MIT License

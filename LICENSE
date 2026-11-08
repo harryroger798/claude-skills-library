@@ -1,0 +1,10 @@
+Claude Skills Library
+=====================
+
+This collection redistributes skills under their ORIGINAL licenses
+(MIT / Apache-2.0). Every source repo, copyright notice and license is
+listed in CREDITS.txt and the original license files in _licenses/.
+
+Redistribution is permitted under MIT / Apache-2.0 provided these
+notices are retained. Some individual skills may carry their own terms;
+check the skill folder and _licenses/ before reuse.
